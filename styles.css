@@ -12,8 +12,9 @@ html,body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{
+h2{
     text-align: center;
+    user-select: none;
 }
 #canva{
     border: 1.5px solid black;
